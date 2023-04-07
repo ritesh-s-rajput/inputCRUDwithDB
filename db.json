@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Ritesh",
+      "salary": "789456",
+      "company": "TCS",
+      "id": 1
+    },
+    {
+      "name": "dvde",
+      "salary": "g5g5",
+      "company": "rg5g5gdddd",
+      "id": 2
+    },
+    {
+      "name": "dHIRAJ",
+      "salary": "25000",
+      "company": "PWC",
+      "id": 3
+    }
+  ]
+}
